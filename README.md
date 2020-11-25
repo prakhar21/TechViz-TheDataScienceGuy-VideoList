@@ -29,7 +29,7 @@ __Happy Learning!__ :smile:
 7. __Research Paper Walkthrough__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc
     * This is a master playlist that holds detailed Research Paper Walkthroughs from the field of Machine Learning and Natural Language Processing from top-tier conferences like NeurIPS, ICML, EMNLP, ACL, etc
 
-## Youtube Creator's Studio Insights
+## Youtube Creator's Studio Insights  :movie_camera:
 - __Total Videos__: _21_ 
 - __Total Subscribers__: _634_ (as of 25th Nov,2020) / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
 - __Where are viewers located? Top-3 Geographies__ :earth_asia:
