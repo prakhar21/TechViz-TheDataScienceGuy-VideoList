@@ -45,4 +45,4 @@ __Happy Learning!__ :smile:
   - Male: _87.5%_
  
  ## IMPORTANT
- __77%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you the one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
+ __77%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
