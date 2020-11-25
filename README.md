@@ -13,7 +13,7 @@ __Happy Learning!__ :smile:
 
 ## Youtube Creator's Studio Insights
 
-- Top-3 Geographies :earth_asia:
-  - India: __22%__
-  - United States: __12.4%__
-  - Germany: __2.5%__
+- __Top-3 Geographies__ :earth_asia:
+  - India: _22%_
+  - United States: _12.4%_
+  - Germany: _2.5%_
