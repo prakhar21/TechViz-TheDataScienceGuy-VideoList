@@ -5,7 +5,7 @@ This repository contains structured list for all the videos from the youtube cha
 - Last Updated on 29th November, 2020
 ```
 
-## Latest Video  on the Channel
+## Latest Video  on the Channel :partying_face:
 1. TOD-BERT: Pre-trained Transformers for Task-Oriented Dialogue Systems | Research Paper Walkthrough - https://www.youtube.com/watch?v=z3Pe0cJUvO0
 
 
