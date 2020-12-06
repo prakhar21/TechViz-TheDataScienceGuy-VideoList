@@ -2,7 +2,7 @@
 This repository contains structured list for all the videos from the youtube channel [TechViz-The Data Science Guy](https://www.youtube.com/c/TechVizTheDataScienceGuy). Not only that, but here i plan to regularly _(weekly)_ update other meta details as well that are part of YT creator's dashboard :wink:   __Happy Learning!__ :smile: 
 
 ```diff
-- Last Updated on 29th November, 2020
+- Last Updated on 6th December, 2020
 ```
 
 ## Latest Video  on the Channel :partying_face:
@@ -33,22 +33,29 @@ This repository contains structured list for all the videos from the youtube cha
 6. __Automatic Text Summarisation in Natural Language Processing__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f
    * Automatic summarization is the process of shortening a set of data computationally, to create a subset (a summary) that represents the most important or relevant information within the original content. There are two general approaches to automatic summarization: extractive and abstractive.  In this playlist, you will find relevant Research Papers walkthroughs on Text Summarisation in (Natural Language Processing) NLP domain from top machine learning/linguistics conferences.
 7. __Research Paper Walkthrough__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc
-    * This is a master playlist that holds detailed Research Paper Walkthroughs from the field of Machine Learning and Natural Language Processing from top-tier conferences like NeurIPS, ICML, EMNLP, ACL, etc
+    * This is a master playlist that holds detailed Research Paper Walkthroughs from the field of Machine Learning and Natural Language Processing from top-tier conferences like NeurIPS, ICML, EMNLP, ACL, etc  
+8. __EMNLP Papers__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
+    * Empirical Methods in Natural Language Processing or EMNLP is a leading conference in the area of Natural Language Processing. EMNLP is organized by the ACL special interest group on linguistic data (SIGDAT). This playlist contains paper from this specific conference.
+      * TOD-BERT: Pre-trained Transformers for Task-Oriented Dialogue Systems - https://www.youtube.com/watch?v=z3Pe0cJUvO0&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
+      * Reformulating Unsupervised Style Transfer as Paraphrase Generation - https://www.youtube.com/watch?v=cjnk3PJljDs&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
+      * Combining BERT with Static Word Embedding for Categorizing Social Media - https://www.youtube.com/watch?v=VqlA_ALWQdM&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
+      * Data Augmentation Techniques for Text Classification in NLP - https://www.youtube.com/watch?v=-1unNLkwImw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
+      * TextRank: Bringing Order into Texts - https://www.youtube.com/watch?v=2l6Fa767kEw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
 
 ## Youtube Creator's Studio Insights  :movie_camera:
-- __Total Videos__: _22_ 
-- __Total Subscribers__: _705_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
+- __Total Videos__: _23_ 
+- __Total Subscribers__: _766_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
 - __Where are viewers located? Top-3 Geographies__ :earth_asia:
-  - India: _23.5%_
-  - United States: _12.2%_
-  - Bangladesh: _1.4%_
+  - India: _23.6%_
+  - United States: _13.0%_
+  - Bangladesh: _1.3%_
 - __What is the age group of viewers? Age Distribution__ :man:
-  - 18-24 years: _16.1%_
-  - 25-34 years: _69.6%_
-  - 35-44 years: _14.3%_
+  - 18-24 years: _16.3%_
+  - 25-34 years: _68.6%_
+  - 35-44 years: _15.2%_
 - __What is the Gender Distribution__ :girl: :boy:
-  - Female: _16.7%_
-  - Male: _83.3%_
+  - Female: _16.1%_
+  - Male: _83.9%_
  
  ## IMPORTANT
- __82.8%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
+ __82.6%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
