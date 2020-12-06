@@ -32,15 +32,20 @@ This repository contains structured list for all the videos from the youtube cha
     * Text style transfer is the task of changing the stylistic properties (e.g., sentiment) of the text while retaining the style-independent content within the context. Since the deﬁnition of the text style is vague, it is difﬁcult to construct paired sen- tences with the same content and differing styles.  In this playlist, you will find relevant Research Papers walkthroughs on Text Style Transfer in (Natural Language Processing) NLP domain from top machine learning/linguistics conferences.
 6. __Automatic Text Summarisation in Natural Language Processing__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f
    * Automatic summarization is the process of shortening a set of data computationally, to create a subset (a summary) that represents the most important or relevant information within the original content. There are two general approaches to automatic summarization: extractive and abstractive.  In this playlist, you will find relevant Research Papers walkthroughs on Text Summarisation in (Natural Language Processing) NLP domain from top machine learning/linguistics conferences.
+      * Text Summarization of COVID-19 Medical Articles using BERT and GPT-2 - https://www.youtube.com/watch?v=kC5kP1dPAzc&list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f&index=1
+      * Leveraging BERT for Extractive Text Summarization on Lectures - https://www.youtube.com/watch?v=JU6eSLsp6vI&list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f&index=2
+      * A Supervised Approach to Extractive Summarisation of Scientific Papers - https://www.youtube.com/watch?v=73uWfopdjoc&list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f&index=3
+      * Extractive & Abstractive Summarization with Transformer Language Models - https://www.youtube.com/watch?v=2IzXW3Ypks0&list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f&index=4
+      
 7. __Research Paper Walkthrough__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc
     * This is a master playlist that holds detailed Research Paper Walkthroughs from the field of Machine Learning and Natural Language Processing from top-tier conferences like NeurIPS, ICML, EMNLP, ACL, etc  
 8. __EMNLP Papers__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
     * Empirical Methods in Natural Language Processing or EMNLP is a leading conference in the area of Natural Language Processing. EMNLP is organized by the ACL special interest group on linguistic data (SIGDAT). This playlist contains paper from this specific conference.
-      * TOD-BERT: Pre-trained Transformers for Task-Oriented Dialogue Systems - https://www.youtube.com/watch?v=z3Pe0cJUvO0&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
-      * Reformulating Unsupervised Style Transfer as Paraphrase Generation - https://www.youtube.com/watch?v=cjnk3PJljDs&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
-      * Combining BERT with Static Word Embedding for Categorizing Social Media - https://www.youtube.com/watch?v=VqlA_ALWQdM&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
-      * Data Augmentation Techniques for Text Classification in NLP - https://www.youtube.com/watch?v=-1unNLkwImw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
-      * TextRank: Bringing Order into Texts - https://www.youtube.com/watch?v=2l6Fa767kEw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
+      * TOD-BERT: Pre-trained Transformers for Task-Oriented Dialogue Systems - https://www.youtube.com/watch?v=z3Pe0cJUvO0&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM&index=1
+      * Reformulating Unsupervised Style Transfer as Paraphrase Generation - https://www.youtube.com/watch?v=cjnk3PJljDs&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM&index=2
+      * Combining BERT with Static Word Embedding for Categorizing Social Media - https://www.youtube.com/watch?v=VqlA_ALWQdM&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM&index=3
+      * Data Augmentation Techniques for Text Classification in NLP - https://www.youtube.com/watch?v=-1unNLkwImw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM&index=4
+      * TextRank: Bringing Order into Texts - https://www.youtube.com/watch?v=2l6Fa767kEw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM&index=5
 
 ## Youtube Creator's Studio Insights  :movie_camera:
 - __Total Videos__: _23_ 
