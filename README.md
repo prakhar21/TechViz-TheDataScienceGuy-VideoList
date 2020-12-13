@@ -18,6 +18,10 @@ This repository contains structured list for all the videos from the youtube cha
 2. _Research Paper_ Walkthrough - https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc
 3. _Data Augmentation_ in Natural Language Processing (NLP) - https://www.youtube.com/playlist?list=PLsAqq9lZFOtUg63g_95OuV-R2GhV1UiIZ
 
+# Research Paper Walkthroughs
+1. __Research Paper Walkthrough__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc
+    * This is a master playlist that holds detailed Research Paper Walkthroughs from the field of Machine Learning and Natural Language Processing from top-tier conferences like NeurIPS, ICML, EMNLP, ACL, etc     
+    
 # Machine Learning with Graphs
 1. DeepWalk: Online Learning for Social Representation - https://www.youtube.com/watch?v=-uJL_ANy1jc&list=PLsAqq9lZFOtU7tT6mDXX_fhv1R1-jGiYf&index=1
 2. Node2Vec: Scalable Feature Learning for Networks - https://www.youtube.com/watch?v=LpwGZG5j_q0&list=PLsAqq9lZFOtU7tT6mDXX_fhv1R1-jGiYf&index=2
@@ -39,10 +43,6 @@ This repository contains structured list for all the videos from the youtube cha
       * __Leveraging BERT for Extractive Text Summarization on Lectures__ - https://www.youtube.com/watch?v=JU6eSLsp6vI&list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f&index=2
       * __A Supervised Approach to Extractive Summarisation of Scientific Papers__ - https://www.youtube.com/watch?v=73uWfopdjoc&list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f&index=3
       * __Extractive & Abstractive Summarization with Transformer Language Models__ - https://www.youtube.com/watch?v=2IzXW3Ypks0&list=PLsAqq9lZFOtV8jYq3JlkqPQUN5QxcWq0f&index=4     
-   
-## All playlists on the Channel
-1. __Research Paper Walkthrough__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc
-    * This is a master playlist that holds detailed Research Paper Walkthroughs from the field of Machine Learning and Natural Language Processing from top-tier conferences like NeurIPS, ICML, EMNLP, ACL, etc     
 
 # Research Paper by Conferences      
 1. __EMNLP Papers__ - https://www.youtube.com/playlist?list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM
