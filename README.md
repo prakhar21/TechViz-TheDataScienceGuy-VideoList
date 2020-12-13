@@ -2,11 +2,11 @@
 This repository contains structured list for all the videos from the youtube channel [TechViz-The Data Science Guy](https://www.youtube.com/c/TechVizTheDataScienceGuy). Not only that, but here i plan to regularly _(weekly)_ update other meta details as well that are part of YT creator's dashboard :wink:   __Happy Learning!__ :smile: 
 
 ```diff
-- Last Updated on 6th December, 2020
+- Last Updated on 13th December, 2020
 ```
 
 ## Latest Video  on the Channel :partying_face:
-1. TOD-BERT: Pre-trained Transformers for Task-Oriented Dialogue Systems | Research Paper Walkthrough - https://www.youtube.com/watch?v=z3Pe0cJUvO0
+1. Node2Vec: Scalable Feature Learning for Networks | ML with Graphs | Research Paper Walkthrough - https://www.youtube.com/watch?v=LpwGZG5j_q0
 
 
 ## Top-3 Popular Videos (by views) on the Channel
@@ -48,19 +48,19 @@ This repository contains structured list for all the videos from the youtube cha
       * TextRank: Bringing Order into Texts - https://www.youtube.com/watch?v=2l6Fa767kEw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM&index=5
 
 ## Youtube Creator's Studio Insights  :movie_camera:
-- __Total Videos__: _23_ 
-- __Total Subscribers__: _766_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
+- __Total Videos__: _24_ 
+- __Total Subscribers__: _823_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
 - __Where are viewers located? Top-3 Geographies__ :earth_asia:
-  - India: _23.6%_
-  - United States: _13.0%_
-  - Bangladesh: _1.3%_
+  - India: _25.6%_
+  - United States: _13.5%_
+  - Germany: _0.9%_
 - __What is the age group of viewers? Age Distribution__ :man:
-  - 18-24 years: _16.3%_
-  - 25-34 years: _68.6%_
-  - 35-44 years: _15.2%_
+  - 18-24 years: _15.8%_
+  - 25-34 years: _69.9%_
+  - 35-44 years: _14.4%_
 - __What is the Gender Distribution__ :girl: :boy:
-  - Female: _16.1%_
-  - Male: _83.9%_
+  - Female: _11.8%_
+  - Male: _88.2%_
  
  ## IMPORTANT
- __82.6%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
+ __82.9%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
