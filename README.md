@@ -2,11 +2,11 @@
 This repository contains structured list for all the videos from the youtube channel [TechViz-The Data Science Guy](https://www.youtube.com/c/TechVizTheDataScienceGuy). Not only that, but here i plan to regularly _(weekly)_ update other meta details as well that are part of YT creator's dashboard :wink:   __Happy Learning!__ :smile: 
 
 ```diff
-- Last Updated on 13th December, 2020
+- Last Updated on 20th December, 2020
 ```
 
 ## Latest Video  on the Channel :partying_face:
-1. Node2Vec: Scalable Feature Learning for Networks | ML with Graphs | Research Paper Walkthrough - [Video])https://www.youtube.com/watch?v=LpwGZG5j_q0)
+1. HARP: Hierarchical Representation Learning for Networks | ML with Graphs | Research Paper Walkthrough - [Video](https://www.youtube.com/watch?v=7HJFa8Xct80)
 
 ## Top-3 Popular Videos (by views) on the Channel
 1. Leveraging _BERT_ for _Extractive Text Summarization_ on Lectures - [Video](https://www.youtube.com/watch?v=JU6eSLsp6vI)
@@ -54,19 +54,19 @@ This repository contains structured list for all the videos from the youtube cha
       * __TextRank: Bringing Order into Texts__ - [Video](https://www.youtube.com/watch?v=2l6Fa767kEw&list=PLsAqq9lZFOtUy6sTkKJ-5WUsMGQZScYpM&index=5)
 
 ## Youtube Creator's Studio Insights  :movie_camera:
-- __Total Videos__: _24_ 
-- __Total Subscribers__: _823_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
+- __Total Videos__: _25_ 
+- __Total Subscribers__: _857_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
 - __Where are viewers located? Top-3 Geographies__ :earth_asia:
-  - India: _25.6%_
+  - India: _26.2%_
   - United States: _13.5%_
-  - Germany: _0.9%_
+  - Germany: _0.8%_
 - __What is the age group of viewers? Age Distribution__ :man:
   - 18-24 years: _15.8%_
-  - 25-34 years: _69.9%_
-  - 35-44 years: _14.4%_
+  - 25-34 years: _69.6%_
+  - 35-44 years: _14.6%_
 - __What is the Gender Distribution__ :girl: :boy:
-  - Female: _11.8%_
-  - Male: _88.2%_
+  - Female: _11.5%_
+  - Male: _88.5%_
  
  ## IMPORTANT
  __82.9%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
