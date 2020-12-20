@@ -25,6 +25,7 @@ This repository contains structured list for all the videos from the youtube cha
 # Machine Learning with Graphs
 1. DeepWalk: Online Learning for Social Representation - [Video](https://www.youtube.com/watch?v=-uJL_ANy1jc&list=PLsAqq9lZFOtU7tT6mDXX_fhv1R1-jGiYf&index=1)
 2. Node2Vec: Scalable Feature Learning for Networks - [Video](https://www.youtube.com/watch?v=LpwGZG5j_q0&list=PLsAqq9lZFOtU7tT6mDXX_fhv1R1-jGiYf&index=2)
+3. HARP: Hierarchical Representation Learning for Networks - [Video](https://www.youtube.com/watch?v=LpwGZG5j_q0&list=PLsAqq9lZFOtU7tT6mDXX_fhv1R1-jGiYf&index=3)
 
 # Natural Language Processing
 1. __New to Natural Language Processing? Start with "Decoding NLP Libraries"__ - [Video](https://www.youtube.com/playlist?list=PLsAqq9lZFOtUKvo2BIEOTfb1gqXd97P7B)
