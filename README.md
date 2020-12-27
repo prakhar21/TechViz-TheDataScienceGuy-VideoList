@@ -2,7 +2,7 @@
 This repository contains structured list for all the videos from the youtube channel [TechViz-The Data Science Guy](https://www.youtube.com/c/TechVizTheDataScienceGuy). Not only that, but here i plan to regularly _(weekly)_ update other meta details as well that are part of YT creator's dashboard :wink:   __Happy Learning!__ :smile: 
 
 ```diff
-- Last Updated on 20th December, 2020
+- Last Updated on 27th December, 2020
 ```
 
 ## Latest Video  on the Channel :partying_face:
