@@ -56,18 +56,18 @@ This repository contains structured list for all the videos from the youtube cha
 
 ## Youtube Creator's Studio Insights  :movie_camera:
 - __Total Videos__: _25_ 
-- __Total Subscribers__: _857_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
+- __Total Subscribers__: _874_ / Make sure to __+1__ by [Subscribing](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel _(only if you like the content)_
 - __Where are viewers located? Top-3 Geographies__ :earth_asia:
-  - India: _26.2%_
-  - United States: _13.5%_
+  - India: _26.0%_
+  - United States: _13.4%_
   - Germany: _0.8%_
 - __What is the age group of viewers? Age Distribution__ :man:
-  - 18-24 years: _15.8%_
-  - 25-34 years: _69.6%_
-  - 35-44 years: _14.6%_
+  - 18-24 years: _15.4%_
+  - 25-34 years: _70.3%_
+  - 35-44 years: _14.3%_
 - __What is the Gender Distribution__ :girl: :boy:
-  - Female: _11.5%_
-  - Male: _88.5%_
+  - Female: _11.1%_
+  - Male: _88.9%_
  
  ## IMPORTANT
  __82.9%__ of you who watch the videos have __Not subscribed__ yet :disappointed: _Are you one of them? Make sure to [Subscribe](https://www.youtube.com/channel/UCoz8NrwgL7U9535VNc0mRPA?sub_confirmation=1) to the channel_ and make me :blush:
